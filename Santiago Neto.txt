@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Links</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="post.jpg" alt="Sua Foto" class="avatar">
+        <h1>@eusantiagoneto</h1>
+        <p>Editor de vídeo profissional</p>
+
+        <div class="links">
+            <a href="https://www.linkedin.com/in/editordevideosantiagoneto/" target="_blank">LinkedIn</a>
+            <a href="https://wa.me/5515935004829?text=Ol%C3%A1%2CSantiago%2Ctudo%20bem%20%3F%0APreciso%20de%20Editor%20de%20V%C3%ADdeo." target="_blank">WhatsApp</a>
+            <a href="https://santiagomrneto.myportfolio.com/producao-audiovisual" target="_blank">Portfólio</a>
+        </div>
+    </div>
+</body>
+</html>
